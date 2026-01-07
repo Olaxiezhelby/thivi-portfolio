@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thivi-portfolio/static/css/main.877c37c1.css",
+    "main.js": "/thivi-portfolio/static/js/main.c79c36c9.js",
+    "index.html": "/thivi-portfolio/index.html",
+    "main.877c37c1.css.map": "/thivi-portfolio/static/css/main.877c37c1.css.map",
+    "main.c79c36c9.js.map": "/thivi-portfolio/static/js/main.c79c36c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877c37c1.css",
+    "static/js/main.c79c36c9.js"
+  ]
+}
