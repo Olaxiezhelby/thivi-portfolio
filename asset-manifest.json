@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/thivi-portfolio/static/css/main.ff622f61.css",
+    "main.css": "/thivi-portfolio/static/css/main.540071f4.css",
     "main.js": "/thivi-portfolio/static/js/main.e18e76f0.js",
     "index.html": "/thivi-portfolio/index.html",
-    "main.ff622f61.css.map": "/thivi-portfolio/static/css/main.ff622f61.css.map",
+    "main.540071f4.css.map": "/thivi-portfolio/static/css/main.540071f4.css.map",
     "main.e18e76f0.js.map": "/thivi-portfolio/static/js/main.e18e76f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff622f61.css",
+    "static/css/main.540071f4.css",
     "static/js/main.e18e76f0.js"
   ]
 }
