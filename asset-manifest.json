@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/thivi-portfolio/static/css/main.178680a7.css",
-    "main.js": "/thivi-portfolio/static/js/main.0320989b.js",
+    "main.css": "/thivi-portfolio/static/css/main.18adb1c2.css",
+    "main.js": "/thivi-portfolio/static/js/main.49fe2fc3.js",
     "static/media/portfolio.png": "/thivi-portfolio/static/media/portfolio.c6d648363f03f215bc66.png",
     "static/media/tune-pulse.png": "/thivi-portfolio/static/media/tune-pulse.cc03f087810b1c286eb8.png",
     "static/media/designs.png": "/thivi-portfolio/static/media/designs.ad629f6ec5b72d721583.png",
     "static/media/delivery-system.png": "/thivi-portfolio/static/media/delivery-system.e198336af8eacbb442d0.png",
     "index.html": "/thivi-portfolio/index.html",
-    "main.178680a7.css.map": "/thivi-portfolio/static/css/main.178680a7.css.map",
-    "main.0320989b.js.map": "/thivi-portfolio/static/js/main.0320989b.js.map"
+    "main.18adb1c2.css.map": "/thivi-portfolio/static/css/main.18adb1c2.css.map",
+    "main.49fe2fc3.js.map": "/thivi-portfolio/static/js/main.49fe2fc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.178680a7.css",
-    "static/js/main.0320989b.js"
+    "static/css/main.18adb1c2.css",
+    "static/js/main.49fe2fc3.js"
   ]
 }
